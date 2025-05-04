@@ -47,13 +47,3 @@ defmodule Main do
 end
 
 Main.start()
-
-# defprotocol Animal do
-#   def getName(name)
-#   def speak(name)
-# end
-
-# defimpl Animal, for: Dog do
-#   def getName()
-
-# end
